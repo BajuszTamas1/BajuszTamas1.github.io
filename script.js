@@ -53,7 +53,6 @@ function shuffleArray(array) {
 
 // Submit button functionality
 document.getElementById("submit-btn").addEventListener("click", function () {
-  submit_click++;
   const inputs = document.querySelectorAll('input[type="text"]');
   let points = 0;
   inputs.forEach((input) => {

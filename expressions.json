@@ -1,0 +1,594 @@
+[
+  {
+    "English": "link",
+    "Hungarian": "hálózati él"
+  },
+  {
+    "English": "host",
+    "Hungarian": "hálózati állomás"
+  },
+  {
+    "English": "routing",
+    "Hungarian": "forgalomirányítás"
+  },
+  {
+    "English": "switch",
+    "Hungarian": "hálózati kapcsoló"
+  },
+  {
+    "English": "wired",
+    "Hungarian": "vezetékes"
+  },
+  {
+    "English": "wireless",
+    "Hungarian": "vezeték nélküli"
+  },
+  {
+    "English": "channel",
+    "Hungarian": "csatorna"
+  },
+  {
+    "English": "coaxial cable",
+    "Hungarian": "koax kábel"
+  },
+  {
+    "English": "optical cable",
+    "Hungarian": "optikai kábel"
+  },
+  {
+    "English": "twisted pair copper",
+    "Hungarian": "sodort réz érpár"
+  },
+  {
+    "English": "full mesh topology",
+    "Hungarian": "teljesen összekötött topológia"
+  },
+  {
+    "English": "flow (data flow)",
+    "Hungarian": "adatfolyam"
+  },
+  {
+    "English": "resource",
+    "Hungarian": "erőforrás"
+  },
+  {
+    "English": "reservation",
+    "Hungarian": "előre foglalás"
+  },
+  {
+    "English": "on demand",
+    "Hungarian": "igény szerinti"
+  },
+  {
+    "English": "circuit switched network",
+    "Hungarian": "áramkör kapcsolt hálózat"
+  },
+  {
+    "English": "packet switched network",
+    "Hungarian": "csomagkapcsolt hálózat"
+  },
+  {
+    "English": "failure",
+    "Hungarian": "meghibásodás"
+  },
+  {
+    "English": "Internet service provider (ISP)",
+    "Hungarian": "Internet szolgáltató"
+  },
+  {
+    "English": "network protocol",
+    "Hungarian": "hálózati protokoll"
+  },
+  {
+    "English": "application layer",
+    "Hungarian": "alkalmazási réteg"
+  },
+  {
+    "English": "transport layer",
+    "Hungarian": "szállítói réteg"
+  },
+  {
+    "English": "network layer",
+    "Hungarian": "hálózati réteg"
+  },
+  {
+    "English": "data link layer",
+    "Hungarian": "adatkapcsolati réteg"
+  },
+  {
+    "English": "physical layer",
+    "Hungarian": "fizikai réteg"
+  },
+  {
+    "English": "session layer",
+    "Hungarian": "munkamenet réteg"
+  },
+  {
+    "English": "representation layer",
+    "Hungarian": "megjelenítési réteg"
+  },
+  {
+    "English": "service",
+    "Hungarian": "szolgáltatás"
+  },
+  {
+    "English": "interface",
+    "Hungarian": "interfész"
+  },
+  {
+    "English": "per-hop",
+    "Hungarian": "ugrásonkénti"
+  },
+  {
+    "English": "reliability",
+    "Hungarian": "megbízhatóság"
+  },
+  {
+    "English": "flow control",
+    "Hungarian": "folyamvezérlés"
+  },
+  {
+    "English": "addressing",
+    "Hungarian": "címzés"
+  },
+  {
+    "English": "address",
+    "Hungarian": "cím"
+  },
+  {
+    "English": "frame",
+    "Hungarian": "keret"
+  },
+  {
+    "English": "packet",
+    "Hungarian": "csomag"
+  },
+  {
+    "English": "segment",
+    "Hungarian": "szegmens"
+  },
+  {
+    "English": "message",
+    "Hungarian": "üzenet"
+  },
+  {
+    "English": "speed",
+    "Hungarian": "sebesség"
+  },
+  {
+    "English": "flexibility",
+    "Hungarian": "rugalmasság"
+  },
+  {
+    "English": "delay",
+    "Hungarian": "késleltetés"
+  },
+  {
+    "English": "loss",
+    "Hungarian": "vesztés"
+  },
+  {
+    "English": "throughput",
+    "Hungarian": "átvitel"
+  },
+  {
+    "English": "signal propagation",
+    "Hungarian": "jelterjedés"
+  },
+  {
+    "English": "processing",
+    "Hungarian": "feldolgozás"
+  },
+  {
+    "English": "queueing",
+    "Hungarian": "sorban állás"
+  },
+  {
+    "English": "bandwidth",
+    "Hungarian": "sávszélesség"
+  },
+  {
+    "English": "speed of light",
+    "Hungarian": "fénysebesség"
+  },
+  {
+    "English": "rate",
+    "Hungarian": "ráta"
+  },
+  {
+    "English": "burst",
+    "Hungarian": "löket"
+  },
+  {
+    "English": "frequency",
+    "Hungarian": "frekvencia"
+  },
+  {
+    "English": "noise",
+    "Hungarian": "zaj"
+  },
+  {
+    "English": "symbol",
+    "Hungarian": "szimbólum"
+  },
+  {
+    "English": "wavelength",
+    "Hungarian": "hullámhossz"
+  },
+  {
+    "English": "microwave",
+    "Hungarian": "mikrohullám"
+  },
+  {
+    "English": "encoding",
+    "Hungarian": "kódolás"
+  },
+  {
+    "English": "baseband",
+    "Hungarian": "alapsáv"
+  },
+  {
+    "English": "broadband",
+    "Hungarian": "szélessáv"
+  },
+  {
+    "English": "modulation",
+    "Hungarian": "moduláció"
+  },
+  {
+    "English": "amplitude",
+    "Hungarian": "amplitúdó"
+  },
+  {
+    "English": "phase",
+    "Hungarian": "fázis"
+  },
+  {
+    "English": "frequency division",
+    "Hungarian": "frekvencia osztás"
+  },
+  {
+    "English": "medium",
+    "Hungarian": "közeg"
+  },
+  {
+    "English": "byte stuffing",
+    "Hungarian": "bájt beszúrás"
+  },
+  {
+    "English": "bit stuffing",
+    "Hungarian": "bit beszúrás"
+  },
+  {
+    "English": "bit error",
+    "Hungarian": "bit hiba"
+  },
+  {
+    "English": "parity bit",
+    "Hungarian": "paritás bit"
+  },
+  {
+    "English": "forward error correction (FEC)",
+    "Hungarian": "előre hibajavítás"
+  },
+  {
+    "English": "checksum",
+    "Hungarian": "ellenörző összeg"
+  },
+  {
+    "English": "stop and wait protocol",
+    "Hungarian": "megáll és vár protokoll"
+  },
+  {
+    "English": "alternating bit protocol",
+    "Hungarian": "alternáló bit protokoll"
+  },
+  {
+    "English": "utilization",
+    "Hungarian": "kihasználtság"
+  },
+  {
+    "English": "sequence number",
+    "Hungarian": "sorszám"
+  },
+  {
+    "English": "selective repeat",
+    "Hungarian": "szelektív ismétlés"
+  },
+  {
+    "English": "collision",
+    "Hungarian": "ütközés"
+  },
+  {
+    "English": "bitmap protocol",
+    "Hungarian": "bit-térkép protokoll"
+  },
+  {
+    "English": "binary countdown",
+    "Hungarian": "bináris visszaszámlálás"
+  },
+  {
+    "English": "adaptive tree protocol",
+    "Hungarian": "adaptív fa protokoll"
+  },
+  {
+    "English": "load",
+    "Hungarian": "terhelés"
+  },
+  {
+    "English": "fairness",
+    "Hungarian": "fairség"
+  },
+  {
+    "English": "probability",
+    "Hungarian": "valószínűség"
+  },
+  {
+    "English": "distribution",
+    "Hungarian": "eloszlás"
+  },
+  {
+    "English": "loop",
+    "Hungarian": "hurok"
+  },
+  {
+    "English": "spanning tree",
+    "Hungarian": "feszítőfa"
+  },
+  {
+    "English": "bridge",
+    "Hungarian": "híd"
+  },
+  {
+    "English": "root",
+    "Hungarian": "gyökér"
+  },
+  {
+    "English": "node",
+    "Hungarian": "csomópont"
+  },
+  {
+    "English": "path",
+    "Hungarian": "útvonal"
+  },
+  {
+    "English": "scalability",
+    "Hungarian": "skálázódás"
+  },
+  {
+    "English": "performance",
+    "Hungarian": "teljesítmény"
+  },
+  {
+    "English": "efficiency",
+    "Hungarian": "hatékonyság"
+  },
+  {
+    "English": "forwarding table",
+    "Hungarian": "továbbító tábla"
+  },
+  {
+    "English": "packet forwarding",
+    "Hungarian": "csomagtovábbítás"
+  },
+  {
+    "English": "packet scheduling",
+    "Hungarian": "csomag ütemezés"
+  },
+  {
+    "English": "sink tree",
+    "Hungarian": "nyelőfa"
+  },
+  {
+    "English": "shortest path",
+    "Hungarian": "legrövidebb út"
+  },
+  {
+    "English": "distance vector",
+    "Hungarian": "távolság vektor"
+  },
+  {
+    "English": "link state",
+    "Hungarian": "kapcsolatállapot"
+  },
+  {
+    "English": "iteration",
+    "Hungarian": "iteráció"
+  },
+  {
+    "English": "count to infinity",
+    "Hungarian": "végtelenig számolás"
+  },
+  {
+    "English": "reverse path forwarding",
+    "Hungarian": "visszairányú továbbítás"
+  },
+  {
+    "English": "multicasting",
+    "Hungarian": "többes-küldés"
+  },
+  {
+    "English": "header",
+    "Hungarian": "fejléc"
+  },
+  {
+    "English": "field",
+    "Hungarian": "mező"
+  },
+  {
+    "English": "source",
+    "Hungarian": "forrás"
+  },
+  {
+    "English": "destination",
+    "Hungarian": "cél (állomás)"
+  },
+  {
+    "English": "offset",
+    "Hungarian": "eltolás"
+  },
+  {
+    "English": "flat",
+    "Hungarian": "sík"
+  },
+  {
+    "English": "hierarchical",
+    "Hungarian": "hierarchikus"
+  },
+  {
+    "English": "aggregation",
+    "Hungarian": "aggregálás"
+  },
+  {
+    "English": "network address translation (NAT)",
+    "Hungarian": "hálózati címfordítás"
+  },
+  {
+    "English": "broadcasting",
+    "Hungarian": "adatszórás"
+  },
+  {
+    "English": "packet fragmentation",
+    "Hungarian": "csomag darabolás"
+  },
+  {
+    "English": "neighbor",
+    "Hungarian": "szomszéd"
+  },
+  {
+    "English": "next hop",
+    "Hungarian": "következő ugrás"
+  },
+  {
+    "English": "cost",
+    "Hungarian": "költség"
+  },
+  {
+    "English": "autonomous system",
+    "Hungarian": "autonóm rendszer"
+  },
+  {
+    "English": "path vector",
+    "Hungarian": "útvonal vektor"
+  },
+  {
+    "English": "policy",
+    "Hungarian": "házirend"
+  },
+  {
+    "English": "customer",
+    "Hungarian": "ügyfél"
+  },
+  {
+    "English": "source routing",
+    "Hungarian": "forrás forgalomirányítás"
+  },
+  {
+    "English": "acknowledgement",
+    "Hungarian": "nyugta"
+  },
+  {
+    "English": "advertised window",
+    "Hungarian": "meghirdetett ablak"
+  },
+  {
+    "English": "source spoofing",
+    "Hungarian": "forrás hamisítás"
+  },
+  {
+    "English": "maximum segment size",
+    "Hungarian": "maximális szegmens méret"
+  },
+  {
+    "English": "sliding window",
+    "Hungarian": "csúszóablak"
+  },
+  {
+    "English": "round-trip time",
+    "Hungarian": "körülfordulási idő"
+  },
+  {
+    "English": "virtual private network (VPN)",
+    "Hungarian": "virtuális magánhálózat"
+  },
+  {
+    "English": "tunnel",
+    "Hungarian": "alagút"
+  },
+  {
+    "English": "congestion",
+    "Hungarian": "torlódás"
+  },
+  {
+    "English": "buffer",
+    "Hungarian": "puffer"
+  },
+  {
+    "English": "cliff",
+    "Hungarian": "szírt"
+  },
+  {
+    "English": "knee",
+    "Hungarian": "könyök"
+  },
+  {
+    "English": "congestion control",
+    "Hungarian": "torlódás vezérlés"
+  },
+  {
+    "English": "congestion avoidance",
+    "Hungarian": "torlódás elkerülés"
+  },
+  {
+    "English": "slow start",
+    "Hungarian": "lassú indulás"
+  },
+  {
+    "English": "fast retransmit",
+    "Hungarian": "gyors újraküldés"
+  },
+  {
+    "English": "fast recovery",
+    "Hungarian": "gyors helyreállítás"
+  },
+  {
+    "English": "cubic function",
+    "Hungarian": "köbös függvény"
+  },
+  {
+    "English": "explicit congestion notification (ECN)",
+    "Hungarian": "explicit torlódás jelzés"
+  },
+  {
+    "English": "data center",
+    "Hungarian": "adatközpont"
+  },
+  {
+    "English": "query",
+    "Hungarian": "lekérdezés"
+  },
+  {
+    "English": "domain name system (DNS)",
+    "Hungarian": "domén név rendszer"
+  },
+  {
+    "English": "zone file",
+    "Hungarian": "zóna fájl"
+  },
+  {
+    "English": "local",
+    "Hungarian": "helyi"
+  },
+  {
+    "English": "server",
+    "Hungarian": "szerver"
+  },
+  {
+    "English": "client",
+    "Hungarian": "kliens"
+  },
+  {
+    "English": "cache",
+    "Hungarian": "gyorsítótár"
+  }
+]
